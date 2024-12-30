@@ -1,0 +1,50 @@
+.body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+}
+
+.container {
+    background: url(epicgraphy-shot-of-rainy-season-background-enjoying-nature-rainfall-and-happy-life-concept-generative-ai-free-photo.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width:100%;
+    height: 100vb;
+    position: fixed;
+ 
+}
+.random-quotes {
+ width : 52%;
+ height: 45%;
+ margin: 150px auto !important;
+ font-family: "Noto Sans", sans-serif;
+padding: 12px;
+ text-align: center;
+ word-spacing: 5px;
+ background-color: aliceblue;
+ line-height: 35px;
+border-radius: 10px;
+
+
+}
+
+button {
+    background-color: black;
+    border: none;
+    padding: 10px;
+    color: white;
+
+}
+
+p {
+    width: 90%;
+    margin: auto;
+ 
+}
+
+h3 {
+    color: rgb(197, 5, 5);
+}
+
